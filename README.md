@@ -1,5 +1,5 @@
-# Barcode_attedance_system
-Barcode_attedance_system
+# Barcode_attendance_system
+Barcode_attendance_system
 
 1. Run bar_code_gen2.py
 2. Make sure bar_code_gen2.py generates qr_codes folder in same directory
